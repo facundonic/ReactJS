@@ -1,0 +1,81 @@
+/* Paleta de colores: 
+#18230F
+#27391C */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #18230F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 180px;
+}
+
+
+.logo-img{
+    width: 80px;
+    filter: drop-shadow(1px 1px 12px #81ff33);
+}
+
+h1{
+    font-family: "Space Grotesk", sans-serif;
+    color: #f5f3f3;
+    font-size: 25px;
+}
+
+body{
+    background-color: #27391C;
+    font-family: "Inter", sans-serif;
+}
+
+section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+}
+
+.presentacion{
+    text-align: center;
+    color: #f5f3f3;
+}
+
+.presentacion p{
+    margin-top: 10px;
+}
+
+.div-form{
+    color: #f5f3f3;
+    background-color: #18230F;
+    padding: 40px;
+    border-radius: 30px;
+}
+
+ul {
+    color: #f5f3f3;
+    list-style: none;
+    width: 80%;
+}
+
+ul img {
+    width: 40px;
+    display: flex;
+    justify-content:center;
+    align-items: end;
+    cursor: pointer;
+}
+
+li {
+    background-color: #18230F;
+    padding: 20px;
+    margin: 14px;
+    display: flex;
+    justify-content: space-between;
+}
