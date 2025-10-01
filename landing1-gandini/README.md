@@ -1,9 +1,9 @@
 <h1 align="center">Hola soy Facundo Gandini</h1>
 <h3 align="center">Soy un argentino estudiando en Coder House</h3>
 
-- Estoy desarrolndo una pagina web **One piece**
+- Estoy desarrolndo una pagina web 
 
-- 🌱 Actualmente estoy estudiando **Html y css**
+- 🌱 Actualmente estoy estudiando React JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
